@@ -36,6 +36,9 @@ description: 'NortonLifeLock was a consumer cyber-safety company built from the 
   portal. This profile was surfaced as a portfolio lead and enriched to record that
   no public API surface exists.'
 url: https://raw.githubusercontent.com/api-evangelist/nortonlifelock/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "This profile was surfaced as a portfolio lead and enriched to record that no public API surface exists."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
